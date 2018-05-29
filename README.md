@@ -19,7 +19,7 @@ Or install it yourself as:
     $ gem install harker_view_tool
 
 ## Usage
-````ruby
+```ruby
 HarkerViewTool::Renderer.copywrite 'Name', 'Message'
 ```
 ## Development
